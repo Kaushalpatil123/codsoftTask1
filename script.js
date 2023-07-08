@@ -102,5 +102,5 @@ function buttonClick6() {
 
 function completesignin() {
   alert("Login Successful");
-  window.location.href = "https://kaushalpatil123.github.io/codsoftTask1/";
+  window.location.href = " https://kaushalpatil123.github.io/codsoftTask1/";
 }
