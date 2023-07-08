@@ -102,5 +102,5 @@ function buttonClick6() {
 
 function completesignin() {
   alert("Login Successful");
-  window.location.href = "http://127.0.0.1:5500/index.html";
+  window.location.href = "https://kaushalpatil123.github.io/codsoftTask1/";
 }
